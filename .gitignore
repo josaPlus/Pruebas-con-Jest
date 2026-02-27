@@ -12,15 +12,6 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 
-# Variables de entorno
-.env
-.env.*
-
-# Archivos de build / coverage
-coverage/
-dist/
-build/
-
 # Cache
 .npm
 .cache
